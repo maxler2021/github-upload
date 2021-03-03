@@ -1,0 +1,28 @@
+body {
+  background-color: ghostwhite;
+  color: black;
+  font-family: Verdana, Arial, sans-serif;
+}
+
+h1 {
+  color: midnightblue;
+  font-family: Monaco, "Lucida Console", monospace;
+  font-size: 300%
+}
+h2 {
+  color: midnightblue;
+  font-family: Monaco, "Lucida Console", monospace;
+  font-size: 200%;
+}
+
+p {
+  color: black;
+  font-family: Verdana, Arial, sans-serif;
+  font-size: 100%;
+  margin: 25px 50px 75px 50px;
+}
+
+.center {
+  margin: auto;
+  width: 60%;
+  }
